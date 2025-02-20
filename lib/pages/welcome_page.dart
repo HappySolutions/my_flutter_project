@@ -48,7 +48,7 @@ class WelcomePage extends StatelessWidget {
                   ),
                 ),
                 CircleAvatar(
-                  backgroundColor: const Color(0xfA97C37),
+                  backgroundColor: const Color(0xffA97C37),
                   child: Icon(Icons.arrow_forward, color: Colors.black),
                 ),
               ],
